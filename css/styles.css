@@ -107,6 +107,9 @@ img {
   display: flex;
   flex-direction: row;
   gap: 40px;
+}
+
+.nav-menu-item {
   padding-top: 24px;
   padding-bottom: 24px;
 }
