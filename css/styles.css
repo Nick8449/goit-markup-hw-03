@@ -107,6 +107,8 @@ img {
   display: flex;
   flex-direction: row;
   gap: 40px;
+  padding-top: 24px;
+  padding-bottom: 24px;
 }
 
 .logo {
@@ -122,11 +124,6 @@ img {
 
 .logo-style {
   color: var(--navyblue);
-}
-
-.nav-menu-item {
-  padding-top: 24px;
-  padding-bottom: 24px;
 }
 
 .nav-link {
@@ -210,7 +207,7 @@ img {
 
 /* Features */
 
-.feature-container {
+.features {
   padding-top: 120px;
   padding-bottom: 120px;
 }
@@ -256,12 +253,9 @@ img {
 /* Our Team */
 
 .our-team {
-  background-color: var(--cloud);
-}
-
-.our-team-container {
   padding-top: 120px;
   padding-bottom: 120px;
+  background-color: var(--cloud);
 }
 
 .our-team-list {
