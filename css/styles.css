@@ -109,11 +109,6 @@ img {
   gap: 40px;
 }
 
-.nav-menu-item {
-  padding-top: 24px;
-  padding-bottom: 24px;
-}
-
 .logo {
   color: var(--iris);
   font-family: var(--logo-font-family);
@@ -135,6 +130,8 @@ img {
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  padding-top: 24px;
+  padding-bottom: 24px;
 }
 
 .contacts {
